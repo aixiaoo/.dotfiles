@@ -1,0 +1,3 @@
+[submodule "tag-bin/bin/dwm.script"]
+	path = tag-bin/bin/dwm.script
+	url = https://github.com/aixiaoo/dwm.script
