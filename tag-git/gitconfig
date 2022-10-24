@@ -1,3 +1,5 @@
 [user]
 	name = Aixiao
 	email = aixiaoo@outlook.com
+[safe]
+	directory = /usr/bin/dwm.script
